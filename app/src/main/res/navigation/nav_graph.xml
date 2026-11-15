@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.freshcutsbarber.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/servicesFragment"
+        android:name="com.example.freshcutsbarber.ServicesFragment"
+        android:label="Services" />
+
+    <fragment
+        android:id="@+id/barbersFragment"
+        android:name="com.example.freshcutsbarber.BarbersFragment"
+        android:label="Barbers" />
+
+    <fragment
+        android:id="@+id/bookAppointmentFragment"
+        android:name="com.example.freshcutsbarber.BookAppointmentFragment"
+        android:label="Book" />
+
+    <fragment
+        android:id="@+id/myBookingsFragment"
+        android:name="com.example.freshcutsbarber.MyBookingsFragment"
+        android:label="My Bookings" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.freshcutsbarber.ProfileFragment"
+        android:label="Profile" />
+
+</navigation>
