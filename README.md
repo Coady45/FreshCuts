@@ -76,4 +76,4 @@ This project was developed as part of a student assignment.
 - Ratings and reviews
 
 ## YouTube Link
-[   ]
+[ https://youtube.com/shorts/DSVRXMJJ7QI?si=8x7dkRvNKBO-ccUW  ]
